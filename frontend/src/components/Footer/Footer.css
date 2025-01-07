@@ -14,7 +14,7 @@
     width: 100%;
     display: grid;
     grid-template-columns: 2fr 1fr 1fr;
-    gap:80px;
+    gap:75px;
 }
 
 .footer-content-left , .footer-content-right, .footer-content-center{
